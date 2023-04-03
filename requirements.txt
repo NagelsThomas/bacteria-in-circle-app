@@ -1,1 +1,5 @@
 viktor==13.8.0
+openpiv
+scikit-image
+pyqt5
+tk
