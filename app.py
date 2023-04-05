@@ -136,7 +136,7 @@ class Controller(ViktorController):
 
     @ImageView("GIF of droplet", duration_guess=1)
     def showGIF(self, params, **kwargs):
-        filePath = Path(__file__).parent/'bacteria-in-droplet-gif.gif'
+        filePath = Path(__file__).parent/'bacteria.gif'
         return ImageResult(File.from_path(filePath))
 
     @ImageView("Prepped Images", duration_guess=1)
