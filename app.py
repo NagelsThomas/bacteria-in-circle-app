@@ -64,7 +64,7 @@ class Parametrization(ViktorParametrization):
 Welcome to the bacteria in a droplet app! [OpenPIV](https://openpiv.readthedocs.io/en/latest/#) is
  an open source repository for particle image velocimetry applications, in this app, the OpenPIV 
  module is used to analyse the movement of bacteria in a droplet as can be seen in the GIF. 
-
+ 
 The OpenPIV package has been developed by [Prof. Alex Liberzon](https://www.linkedin.com/in/alexliberzon/) 
 at the Faculty of Engineering Tel Aviv Unversity.
 The OpenPIV package has been co-developed by [Prof. Alex Liberzon](https://www.linkedin.com/in/alexliberzon/) 
