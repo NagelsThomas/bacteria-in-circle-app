@@ -65,8 +65,16 @@ Welcome to the bacteria in a droplet app! [OpenPIV](https://openpiv.readthedocs.
  an open source repository for particle image velocimetry applications, in this app, the OpenPIV 
  module is used to analyse the movement of bacteria in a droplet as can be seen in the GIF. 
 
-The OpenPIV package has been developed by [Prof. Alex Liberzon](https://www.linkedin.com/in/alexliberzon/) 
-at the Faculty of Engineering Tel Aviv Unversity.
+The OpenPIV package has been co-developed by [Prof. Alex Liberzon](https://www.linkedin.com/in/alexliberzon/) 
+at the Turbulence Structure Laboratory, at Tel Aviv Unversity and a OpenPIV consortium. 
+
+The data source is: https://drive.google.com/drive/folders/1DCt4EbkYoGHun22IWgT5OGWpmQlsMuHs
+
+from the openpiv-users group: https://groups.google.com/g/openpiv-users/c/Us_q7h3Uri8/m/1p8XAYkHCQAJ
+
+The app reproduces the analysis developed for the OpenPIV-Python examples, available here: 
+https://github.com/OpenPIV/openpiv-python-examples/blob/main/notebooks/bacteria_in_a_circle.ipynb
+
 """
     )
 
