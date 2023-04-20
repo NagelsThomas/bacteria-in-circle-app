@@ -71,7 +71,7 @@ at the Turbulence Structure Laboratory, at Tel Aviv Unversity and a OpenPIV cons
 The package has a large amount of contributors, you can find them in the [openPIV users and community](https://groups.google.com/g/openpiv-users/c/Us_q7h3Uri8/m/1p8XAYkHCQAJ).
 If you would like to find out more about the data source, all the imagery can be found [here](https://drive.google.com/drive/folders/1DCt4EbkYoGHun22IWgT5OGWpmQlsMuHs).
 This app reproduces the analysis of a bacteria in a droplet developed for the [OpenPIV-Python examples](https://github.com/OpenPIV/openpiv-python-examples/blob/main/notebooks/bacteria_in_a_circle.ipynb)
-based on the data presented by [Zhengyhang Liu](https://www.linkedin.com/in/zhengyang-liu-b62986115/).
+based on the data presented by [Zhengyhang Liu](https://www.linkedin.com/in/zhengyang-liu-b62986115/). The data were produced by me in the lab of [Eric Clement](https://blog.espci.fr/eclement) at PMMH, ESPCI Paris 
 
 """
     )
